@@ -1,0 +1,74 @@
+{
+  "years": [
+    {
+      "year": "FY2020",
+      "ffo_m": 812.4,
+      "ffo_per_security_cents": 15.80,
+      "distribution_per_security_cents": 7.00,
+      "npi_m": 1284.3,
+      "occupancy_pct": 97.8,
+      "specialty_sales_psm": 9450,
+      "total_centre_sales_bn": 21.2,
+      "gearing_pct": 28.4,
+      "security_price_close": 2.45,
+      "total_aum_bn": 33.8,
+      "customer_visits_m": 420
+    },
+    {
+      "year": "FY2021",
+      "ffo_m": 918.6,
+      "ffo_per_security_cents": 17.86,
+      "distribution_per_security_cents": 14.25,
+      "npi_m": 1483.8,
+      "occupancy_pct": 98.5,
+      "specialty_sales_psm": 10580,
+      "total_centre_sales_bn": 23.1,
+      "gearing_pct": 27.2,
+      "security_price_close": 2.82,
+      "total_aum_bn": 34.2,
+      "customer_visits_m": 458
+    },
+    {
+      "year": "FY2022",
+      "ffo_m": 1012.3,
+      "ffo_per_security_cents": 19.69,
+      "distribution_per_security_cents": 15.50,
+      "npi_m": 1631.8,
+      "occupancy_pct": 98.9,
+      "specialty_sales_psm": 11420,
+      "total_centre_sales_bn": 24.6,
+      "gearing_pct": 26.5,
+      "security_price_close": 2.68,
+      "total_aum_bn": 35.1,
+      "customer_visits_m": 495
+    },
+    {
+      "year": "FY2023",
+      "ffo_m": 1082.1,
+      "ffo_per_security_cents": 21.05,
+      "distribution_per_security_cents": 16.50,
+      "npi_m": 1724.2,
+      "occupancy_pct": 99.3,
+      "specialty_sales_psm": 12082,
+      "total_centre_sales_bn": 25.9,
+      "gearing_pct": 25.8,
+      "security_price_close": 2.98,
+      "total_aum_bn": 35.8,
+      "customer_visits_m": 518
+    },
+    {
+      "year": "FY2024",
+      "ffo_m": 1118.2,
+      "ffo_per_security_cents": 21.76,
+      "distribution_per_security_cents": 17.00,
+      "npi_m": 1789.5,
+      "occupancy_pct": 99.4,
+      "specialty_sales_psm": 12341,
+      "total_centre_sales_bn": 26.8,
+      "gearing_pct": 25.3,
+      "security_price_close": 3.42,
+      "total_aum_bn": 36.3,
+      "customer_visits_m": 535
+    }
+  ]
+}

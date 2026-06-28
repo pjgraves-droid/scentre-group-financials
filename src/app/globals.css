@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'STK Bureau Serif';
+  src: url('/fonts/STKBureauSerif-Book.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'STK Bureau Serif';
+  src: url('/fonts/STKBureauSerif-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NB International Pro';
+  src: url('/fonts/NBInternationalPro-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html, body {
+  height: 100%;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-cog-body antialiased;
+    font-family: 'NB International Pro', system-ui, -apple-system, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'STK Bureau Serif', Georgia, 'Times New Roman', serif;
+  }
+}
+
+@layer components {
+  .section-label {
+    @apply text-xs font-medium uppercase tracking-[0.15em] text-cog-muted;
+    font-family: 'NB International Pro', system-ui, sans-serif;
+  }
+}
+
+@media print {
+  nav, footer, .no-print { display: none !important; }
+  body { background: white; }
+}

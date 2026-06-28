@@ -1,0 +1,53 @@
+{
+  "legal_name": "Scentre Group",
+  "ticker": "ASX: SCG",
+  "hq": "Level 30, 85 Castlereagh Street, Sydney NSW 2000",
+  "founded": 2014,
+  "ceo": "Elliott Rusanow",
+  "cfo": "Mark Bloom",
+  "securities_on_issue_bn": 5.14,
+  "centres": 42,
+  "gla_sqm_m": 3.8,
+  "total_aum_bn": 36.3,
+  "fy2024": {
+    "ffo_m": 1118.2,
+    "ffo_per_security_cents": 21.76,
+    "ffo_yoy_pct": 3.3,
+    "distribution_per_security_cents": 17.0,
+    "distribution_yoy_pct": 3.0,
+    "net_property_income_m": 1789.5,
+    "npi_yoy_pct": 3.8,
+    "occupancy_pct": 99.4,
+    "specialty_sales_psm": 12341,
+    "specialty_sales_yoy_pct": 2.1,
+    "total_centre_sales_bn": 26.8,
+    "customer_visits_m": 535,
+    "gearing_pct": 25.3,
+    "interest_cover_x": 3.8,
+    "weighted_avg_debt_maturity_yrs": 5.2,
+    "credit_rating": "A / A2"
+  },
+  "fy2025_guidance": {
+    "ffo_per_security_cents_low": 22.2,
+    "ffo_per_security_cents_high": 22.6,
+    "distribution_per_security_cents": 17.5
+  },
+  "key_sources": [
+    {
+      "label": "Scentre Group FY2024 Annual Report",
+      "url": "https://www.scentregroup.com/investors/results-and-reports"
+    },
+    {
+      "label": "Scentre Group corporate site",
+      "url": "https://www.scentregroup.com"
+    },
+    {
+      "label": "Scentre Group Investor Presentation FY2024",
+      "url": "https://www.scentregroup.com/investors"
+    },
+    {
+      "label": "ASX Announcements",
+      "url": "https://www.scentregroup.com/investors/asx-announcements"
+    }
+  ]
+}
