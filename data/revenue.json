@@ -1,0 +1,46 @@
+{
+  "segments": [
+    {
+      "name": "Base Rent",
+      "fy2024_m": 1423.6,
+      "fy2023_m": 1385.2,
+      "fy2022_m": 1312.8,
+      "fy2021_m": 1198.4,
+      "fy2020_m": 1045.2,
+      "description": "Fixed minimum rent from lease agreements"
+    },
+    {
+      "name": "Percentage Rent",
+      "fy2024_m": 142.8,
+      "fy2023_m": 138.4,
+      "fy2022_m": 125.6,
+      "fy2021_m": 108.3,
+      "fy2020_m": 82.1,
+      "description": "Turnover-based rent above minimum thresholds"
+    },
+    {
+      "name": "Property Management Fees",
+      "fy2024_m": 168.4,
+      "fy2023_m": 162.1,
+      "fy2022_m": 155.3,
+      "fy2021_m": 148.6,
+      "fy2020_m": 138.4,
+      "description": "Fees for managing and operating centres"
+    },
+    {
+      "name": "Development & Project Income",
+      "fy2024_m": 54.7,
+      "fy2023_m": 42.3,
+      "fy2022_m": 38.1,
+      "fy2021_m": 28.5,
+      "fy2020_m": 18.6,
+      "description": "Revenue from development projects and capital works"
+    }
+  ],
+  "quarterly_fy2024": [
+    { "quarter": "Q1", "base_rent_m": 348.2, "percentage_rent_m": 32.1, "mgmt_fees_m": 41.2, "dev_income_m": 12.4 },
+    { "quarter": "Q2", "base_rent_m": 352.8, "percentage_rent_m": 34.6, "mgmt_fees_m": 41.8, "dev_income_m": 13.8 },
+    { "quarter": "Q3", "base_rent_m": 358.4, "percentage_rent_m": 36.2, "mgmt_fees_m": 42.5, "dev_income_m": 14.1 },
+    { "quarter": "Q4", "base_rent_m": 364.2, "percentage_rent_m": 39.9, "mgmt_fees_m": 42.9, "dev_income_m": 14.4 }
+  ]
+}

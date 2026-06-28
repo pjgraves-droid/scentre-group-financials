@@ -1,0 +1,40 @@
+{
+  "overview": {
+    "gearing_pct": 25.3,
+    "gearing_target_low_pct": 24.0,
+    "gearing_target_high_pct": 28.0,
+    "interest_cover_x": 3.8,
+    "weighted_avg_cost_of_debt_pct": 4.2,
+    "weighted_avg_debt_maturity_yrs": 5.2,
+    "credit_rating_sp": "A",
+    "credit_rating_moodys": "A2",
+    "total_debt_m": 9180,
+    "available_liquidity_m": 3420,
+    "hedged_pct": 82,
+    "fixed_rate_pct": 78
+  },
+  "debt_maturity": [
+    { "year": "2025", "amount_m": 1250, "type": "Bank" },
+    { "year": "2026", "amount_m": 1480, "type": "Mixed" },
+    { "year": "2027", "amount_m": 1320, "type": "Bond" },
+    { "year": "2028", "amount_m": 1150, "type": "Bond" },
+    { "year": "2029", "amount_m": 980, "type": "Bond" },
+    { "year": "2030", "amount_m": 850, "type": "Bond" },
+    { "year": "2031", "amount_m": 720, "type": "Bond" },
+    { "year": "2032+", "amount_m": 1430, "type": "Bond" }
+  ],
+  "gearing_history": [
+    { "year": "FY2020", "gearing_pct": 28.4, "interest_cover_x": 3.1 },
+    { "year": "FY2021", "gearing_pct": 27.2, "interest_cover_x": 3.3 },
+    { "year": "FY2022", "gearing_pct": 26.5, "interest_cover_x": 3.5 },
+    { "year": "FY2023", "gearing_pct": 25.8, "interest_cover_x": 3.6 },
+    { "year": "FY2024", "gearing_pct": 25.3, "interest_cover_x": 3.8 }
+  ],
+  "funding_sources": [
+    { "source": "Medium Term Notes (AUD)", "amount_m": 3250, "pct": 35.4 },
+    { "source": "Medium Term Notes (USD)", "amount_m": 2180, "pct": 23.7 },
+    { "source": "Medium Term Notes (EUR)", "amount_m": 1120, "pct": 12.2 },
+    { "source": "Bank Facilities", "amount_m": 1850, "pct": 20.2 },
+    { "source": "US Private Placement", "amount_m": 780, "pct": 8.5 }
+  ]
+}

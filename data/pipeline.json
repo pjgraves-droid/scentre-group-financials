@@ -1,0 +1,99 @@
+{
+  "projects": [
+    {
+      "name": "Westfield Sydney — Tower & Retail Expansion",
+      "centre": "Westfield Sydney",
+      "state": "NSW",
+      "status": "Under Construction",
+      "capex_m": 450,
+      "expected_completion": "2026 H2",
+      "gla_addition_sqm": 12000,
+      "target_yield_pct": 6.2,
+      "description": "Premium retail expansion and commercial tower integration in Sydney CBD"
+    },
+    {
+      "name": "Westfield Carousel — Stage 2 Redevelopment",
+      "centre": "Westfield Carousel",
+      "state": "WA",
+      "status": "Under Construction",
+      "capex_m": 380,
+      "expected_completion": "2026 H1",
+      "gla_addition_sqm": 18000,
+      "target_yield_pct": 6.5,
+      "description": "Major expansion adding dining, entertainment and lifestyle precincts"
+    },
+    {
+      "name": "Westfield Knox — Mixed-Use Development",
+      "centre": "Westfield Knox",
+      "state": "VIC",
+      "status": "Planning",
+      "capex_m": 520,
+      "expected_completion": "2028 H1",
+      "gla_addition_sqm": 22000,
+      "target_yield_pct": 6.0,
+      "description": "Mixed-use residential and retail development with build-to-rent towers"
+    },
+    {
+      "name": "Westfield Chermside — Dining & Entertainment Precinct",
+      "centre": "Westfield Chermside",
+      "state": "QLD",
+      "status": "Under Construction",
+      "capex_m": 185,
+      "expected_completion": "2025 H2",
+      "gla_addition_sqm": 8500,
+      "target_yield_pct": 6.8,
+      "description": "New rooftop dining precinct and entertainment zone"
+    },
+    {
+      "name": "Westfield Marion — Premium Retail Upgrade",
+      "centre": "Westfield Marion",
+      "state": "SA",
+      "status": "Completed",
+      "capex_m": 165,
+      "expected_completion": "2024 H2",
+      "gla_addition_sqm": 6500,
+      "target_yield_pct": 7.1,
+      "description": "Luxury retail pod and fresh food marketplace"
+    },
+    {
+      "name": "Westfield Bondi Junction — Rooftop Activation",
+      "centre": "Westfield Bondi Junction",
+      "state": "NSW",
+      "status": "Planning",
+      "capex_m": 95,
+      "expected_completion": "2027 H1",
+      "gla_addition_sqm": 4200,
+      "target_yield_pct": 7.4,
+      "description": "Rooftop dining, wellness and co-working space"
+    },
+    {
+      "name": "Westfield Chadstone — Luxury Pavilion Phase 2",
+      "centre": "Westfield Chadstone",
+      "state": "VIC",
+      "status": "Under Construction",
+      "capex_m": 280,
+      "expected_completion": "2026 H1",
+      "gla_addition_sqm": 10000,
+      "target_yield_pct": 6.3,
+      "description": "Extension of luxury fashion precinct with international brands"
+    },
+    {
+      "name": "Westfield Parramatta — Transit-Oriented Development",
+      "centre": "Westfield Parramatta",
+      "state": "NSW",
+      "status": "Planning",
+      "capex_m": 650,
+      "expected_completion": "2029 H1",
+      "gla_addition_sqm": 25000,
+      "target_yield_pct": 5.8,
+      "description": "Major mixed-use development integrated with Sydney Metro West station"
+    }
+  ],
+  "summary": {
+    "total_pipeline_capex_m": 2725,
+    "projects_under_construction": 4,
+    "projects_planning": 3,
+    "projects_completed_fy2024": 1,
+    "estimated_incremental_noi_m": 168
+  }
+}
